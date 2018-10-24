@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComicReader</string>
+    <string name="title_activity_comic">ComicReader</string>
+    <string name="comic_title_label">Title</string>
+    <string name="comic_summary_label">Summary</string>
+    <string name="finished_label">Finished</string>
+    <string name="comics_title">Manga</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="my_anime_list_title">My Anime List</string>
+    <string name="default_date">0000-00-00</string>
+    <string name="N_A">N/A</string>
+</resources>
